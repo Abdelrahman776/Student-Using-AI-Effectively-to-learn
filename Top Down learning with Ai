@@ -1,0 +1,147 @@
+Phase 1: The Core Mindset ("Crush Your Ego")
+
+Before you type a single prompt, you need the right operating system in your head.
+
+
+
+Use AI to learn, not to execute: The goal is building your own mental models, not just getting working output.
+
+
+
+Read everything: Never copy-paste blindly. If the AI generates code or a mathematical proof, read through every single line.
+
+
+
+Keep a constant feedback loop: Keep a tab open alongside your IDE or notebook. Constantly throw your work in and ask: "Is this good? Are there bugs? What can I do better?"
+
+
+
+Phase 2: Top-Down Foundation (The "Aha" Moment)
+
+Start broad. Get the absolute clearest, simplest picture of the concept before diving into the weeds.
+
+
+
+Actionable Prompts:
+
+
+
+"What are the most fundamental concepts of [topic]? Show it to me in a way I really need to understand."
+
+
+
+"Explain this concept to me like I'm 12. Go into detail, but make the core idea obvious."
+
+
+
+"What is the intuition behind this algorithm? Why does it work? Draw me an ASCII graph or visual representation to explain it."
+
+
+
+(If studying math/physics): "What is the absolute core math intuition behind Laplace equations? Break it down visually."
+
+
+
+Phase 3: The Build-and-Debug Loop
+
+This is where you get your hands dirty. Build something, break it, and use the AI to understand why it broke.
+
+
+
+Step-by-Step Workflow:
+
+
+
+Bounce Ideas: Tell the LLM what you want to make (e.g., a specific FastAPI endpoint or a React component) and ask for an outline.
+
+
+
+Write and Debug: Try writing the code. When it fails, paste it into the LLM.
+
+
+
+Explain the Parts: Once the code works, don't move on. Ask the LLM: "Explain what this specific block of code does and why we needed it to solve the bug."
+
+
+
+Actionable Prompts:
+
+
+
+"Be extremely direct and concrete. Show me all the intermediate states and the shapes of the code you produce so I intuitively understand why this happens."
+
+
+
+"If you're unsure, show me options. What have others tried? Why does this work while something else didn't? Provide external resources."
+
+
+
+Phase 4: Recursive Gap Filling
+
+As you learn, you will realize what you don't know. Chase those gaps relentlessly.
+
+
+
+Actionable Prompts (The Follow-Up Engine):
+
+
+
+"What does this specific line mean?"
+
+
+
+"How does it actually do the thing under the hood?"
+
+
+
+"Why did we choose this method over another?"
+
+
+
+Phase 5: Validation and Testing
+
+Do not trust that you know it just because it made sense when you read it. Prove it.
+
+
+
+Actionable Prompts:
+
+
+
+The Reverse Pitch: "Here is my understanding of this topic: [Write your explanation]. Is it correct? Point out any flaws in my logic."
+
+
+
+The Stress Test: "Give me a quiz on this. Make it challenging."
+
+
+
+The Meta-Analysis: "Look at the questions I just answered. Tell me the fundamental concept that all these questions share in common."
+
+
+
+Phase 6: Refinement and Best Practices
+
+Once you understand the mechanics, elevate your standard of work to an expert level.
+
+
+
+Actionable Prompts:
+
+
+
+"Here is my entire codebase. Give me 10 concrete ideas on what I can do to improve this."
+
+
+
+"Refer me to papers or resources to read that expand on this."
+
+
+
+"Give me a list of things [Specific Paper/Industry Standard] did differently compared to what I just did. Be extremely concrete about the exact differences."
+
+
+
+"What are the industry best practices for doing this?" 
+
+"could yousummarize this in a way that to highlight what is crucial to know and what i need to get out of it to understand it deeply without wasting a lot of time on fluff"
